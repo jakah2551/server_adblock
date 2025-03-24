@@ -1,0 +1,4 @@
+# WiFi Anti-AdBlock Requirements
+scapy
+netifaces
+python-iptables
