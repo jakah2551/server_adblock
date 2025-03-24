@@ -46,7 +46,7 @@ sudo apt-get install hostapd dnsmasq iptables python3-pip
 
 3. Installa i moduli Python richiesti:
 ```bash
-pip3 install scapy netifaces
+pip install -r requirements.txt
 ```
 
 ## Utilizzo
